@@ -70,7 +70,7 @@ export default function Form({ handleAddWorkout }) {
     }
   };
 
-  console.log(workoutDetails);
+  // console.log(workoutDetails);
 
   return (
     <Box sx={{ py: 2 }}>

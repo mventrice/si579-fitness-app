@@ -37,18 +37,15 @@ export default function App() {
       ...prevState,
       workoutDetails,
     ]);
-    let workoutLength = workouts.length;
-    if (workoutLength === 0) {
-      setTotalWorkouts(workoutLength + 1);
-    } else {
-      setTotalWorkouts(workoutLength);
-    }
+    setTotalWorkouts(totalWorkouts + 1);
+    console.log('workouts:' + workouts);
   };
 
   function clearWorkouts() {
     setWorkouts([{}]);
     setCompletedWorkouts(0);
     setTotalWorkouts(0);
+    console.log('total workouts:' + totalWorkouts);
   }
 
   const [completedWorkouts, setCompletedWorkouts] =
