@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/si579-fitness-app/static/css/main.cd5aa9ef.chunk.css",
-    "main.js": "/si579-fitness-app/static/js/main.ba6c251a.chunk.js",
-    "main.js.map": "/si579-fitness-app/static/js/main.ba6c251a.chunk.js.map",
+    "main.js": "/si579-fitness-app/static/js/main.055387de.chunk.js",
+    "main.js.map": "/si579-fitness-app/static/js/main.055387de.chunk.js.map",
     "runtime-main.js": "/si579-fitness-app/static/js/runtime-main.6fd76ca2.js",
     "runtime-main.js.map": "/si579-fitness-app/static/js/runtime-main.6fd76ca2.js.map",
     "static/js/2.2aaeefe9.chunk.js": "/si579-fitness-app/static/js/2.2aaeefe9.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.6fd76ca2.js",
     "static/js/2.2aaeefe9.chunk.js",
     "static/css/main.cd5aa9ef.chunk.css",
-    "static/js/main.ba6c251a.chunk.js"
+    "static/js/main.055387de.chunk.js"
   ]
 }
