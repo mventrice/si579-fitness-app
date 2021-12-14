@@ -98,7 +98,7 @@ export default function Form({ handleAddWorkout }) {
         </FormControl>
         <TextField
           name="duration"
-          label="Duration"
+          label="Duration (min)"
           value={workoutDetails.duration}
           onChange={handleChange}
           type="number"
